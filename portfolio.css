@@ -1,17 +1,16 @@
 body {
     text-align: center;
-    background: linear-gradient(#4287f5 0%, #4bf542 100%);
+    background: linear-gradient(#F89880 30%, #F88379 100%);
 }
 
 img {
-    width: 100;
     height: 100;
-    border-radius: 50%;
+    border-radius: 10%;
 
 }
 
 #myname {
-    font-family: 'Courgette', cursive;
+    font-family: 'M PLUS 2', cursive;
 }
 
 #welcome {
@@ -37,7 +36,7 @@ h2 {
 
 .line {
     height: 6px;
-    background-color: black;
+    background-color:#36454F;
     width: 70px;
     margin: 8px auto;
 }
@@ -45,7 +44,7 @@ h2 {
 #bio {
     padding: 20px;
     font-size: 42;
-    background: pink;
+    background:#F37575 ;
 }
 .menu {
   list-style-type: none;
@@ -58,6 +57,7 @@ h2 {
 .link {
 /* Make the menu items float left*/
 
+float:left;
 }
 
 .link a {
@@ -92,7 +92,7 @@ h2 {
 
 .inspiration {
     background: #373B44;
-    background: linear-gradient(#4286f4, #373B44);
+    background: linear-gradient(#EEA6A6, #F8C5C5);
     padding-top: 20px;
 }
 
